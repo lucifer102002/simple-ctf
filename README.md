@@ -8,6 +8,6 @@ Welcome to this simple CTF challenge.
 Your task is to read the file `challenge.txt`, find the hidden text, decode it, and get the final flag.
 
 Flag Format:
-FSD{something}
+OFSD{something}
 
 Good luck!
